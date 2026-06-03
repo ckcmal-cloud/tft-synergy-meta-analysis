@@ -65,5 +65,4 @@
 
 ## 데이터 출처
 
-- Kaggle TFT Match Data  
-  https://www.kaggle.com/datasets/gyejr95/tft-match-data
+- [Kaggle TFT Match Data](https://www.kaggle.com/datasets/gyejr95/tft-match-data)
