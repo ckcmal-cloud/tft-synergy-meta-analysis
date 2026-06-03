@@ -53,14 +53,15 @@
 - 신규 콘텐츠 수명 연장
 
 
-## 주요 기술
+## 분석 기법
 
-- Python
-- Pandas
-- NumPy
-- SciPy
-- Matplotlib
-- Plotly
+- Pick Rate·Top4 Rate 분석
+- Pareto 분석
+- Gini·HHI 집중도 분석
+- 카이제곱 검정
+- ANOVA
+- Kruskal-Wallis 검정
+- 시너지 조합 상관관계 분석
 
 
 ## 데이터 출처
